@@ -6,7 +6,7 @@ minSdkVersion:21
 targetSdkVersion:28
 
 If you want to contribute to this app then 
-1. clone the repository into your local system.
+1. fork and clone the repository into your local system.
 2. create a new branch called new-feature.
 3. Commit the changes.
 4. and make a PR. that's it😎😎
